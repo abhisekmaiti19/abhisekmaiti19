@@ -26,4 +26,3 @@
 </p>
 
 
-[![abhisekmaiti19's GitHub | Topics](https://stats.quine.sh/abhisekmaiti19/topics-over-time?theme=dark)](https://quine.sh)
