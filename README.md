@@ -24,3 +24,6 @@
 <a href="https://www.hackerearth.com/@abhisekmaiti19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@abhisekmaiti19" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhisekmaiti19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="abhisekmaiti19" height="30" width="40" /></a>
 </p>
+
+
+[![abhisekmaiti19's GitHub | Topics](https://stats.quine.sh/abhisekmaiti19/topics-over-time?theme=dark)](https://quine.sh)
